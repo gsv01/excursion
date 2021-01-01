@@ -9,7 +9,8 @@ body{
 
 
 h1{
-    font-weight: lighter;
+    font-family: Verdana;
+    font-weight: normal;
     font-size: 50px;
     padding-top:10px;
     padding-bottom: 10px;
@@ -17,9 +18,10 @@ h1{
 
 
 h3{
-    font-weight: lighter;
+    font-family: Verdana;
+    font-weight: normal;
     color: gray;
-    font-size: 22px;
+    font-size: 21px;
 }
 
 video{
@@ -28,8 +30,9 @@ video{
 }
 
 a{
-    color:cyan;
+    color:aquamarine;
     outline: none;
+    font-size: 16px;
 }
 
 footer{
